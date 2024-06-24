@@ -1,0 +1,25 @@
+img {
+    width: 200px;
+    height: 200px;
+    }
+
+
+.section {
+    background-color: red;
+}
+
+.headers {
+    color:aquamarine;
+}
+
+#email {
+    background-color: brown;
+}
+
+#github {
+    background-color:chartreuse;
+}
+
+#portfolio {
+    background-color:darkgreen;
+}
